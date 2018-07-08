@@ -1,1 +1,1 @@
-worker: python3 WatchDog.py
+web: ./start.sh
